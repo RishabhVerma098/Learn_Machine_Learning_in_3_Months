@@ -17,12 +17,14 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 # Month 2
 
 ## Week 1 
-#### Learn python for data science
+#### Learn python for data science + Orielly data science from scratch
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
+http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf
 #### Math of Intelligence
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 #### Intro to Tensorflow
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
+
 
 ## Week 2 
 Intro to ML (Udacity)
